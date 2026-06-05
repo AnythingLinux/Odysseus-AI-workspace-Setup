@@ -38,7 +38,18 @@ Professional production-grade setup, deployment, integration, troubleshooting, a
 
 ## Reach out me if you need professional support:
 💬 Telegram: https://t.me/AnythingLinux
+
 📩 WhatsApp: https://wa.me/8801890757616
+
+# Odysseus
+
+```
+───────────────────────────────────────────────
+ ⊹ ࣪ ˖ ૮( ˶ᵔ ᵕ ᵔ˶ )っ  Odysseus vers. latest
+───────────────────────────────────────────────
+```
+
+![Odysseus](odysseus.jpg)
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to Odysseus AI Workspace deployments. Product names, trademarks, and service names belong to their respective owners.
