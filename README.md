@@ -37,11 +37,8 @@ Professional production-grade setup, deployment, integration, troubleshooting, a
 - Self-Hosting Enthusiasts
 
 ## Reach out me if you need professional support:
-## Telegram
-💬 https://t.me/AnythingLinux
-
-## WhatsApp
-📩 https://wa.me/8801890757616
+💬 Telegram: https://t.me/AnythingLinux
+📩 WhatsApp: https://wa.me/8801890757616
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to Odysseus AI Workspace deployments. Product names, trademarks, and service names belong to their respective owners.
