@@ -12,7 +12,12 @@ Professional production-grade setup, deployment, integration, troubleshooting, a
 - 🛠️ Troubleshooting & bug fixing
 - 🔄 Maintenance & on-demand support
 
-## Cloud AI API integration
+## Reach out if you need professional support
+💬 Telegram: https://t.me/AnythingLinux
+
+📩 WhatsApp: https://wa.me/8801890757616
+
+## Cloud AI API
   - OpenAI
   - Anthropic
   - Google Gemini
@@ -20,7 +25,7 @@ Professional production-grade setup, deployment, integration, troubleshooting, a
   - OpenRouter
   - Mistral AI
 
-## Local LLM integration
+## Local LLM 
   - Ollama
   - LocalAI
   - LM Studio
@@ -35,11 +40,6 @@ Professional production-grade setup, deployment, integration, troubleshooting, a
 - Small Businesses
 - Enterprise Teams
 - Self-Hosting Enthusiasts
-
-## Reach out me if you need professional support:
-💬 Telegram: https://t.me/AnythingLinux
-
-📩 WhatsApp: https://wa.me/8801890757616
 
 # Odysseus
 
