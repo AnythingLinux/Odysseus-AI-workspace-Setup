@@ -1,4 +1,4 @@
-# Professional Odysseus AI Workspace Deployment & Support Services
+# Professional Odysseus AI Workspace Setup & Support
 
 Professional freelance support for Odysseus AI Workspace, including production-grade setup, deployment, AI integration, troubleshooting, optimization, and ongoing maintenance.
 
