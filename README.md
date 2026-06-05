@@ -2,29 +2,25 @@
 
 Professional production-grade setup, deployment, integration, troubleshooting, and maintenance services for Odysseus AI Workspace.
 
-Whether you're an individual developer, startup, agency, or business, this repository provides resources and support for deploying and managing Odysseus AI Workspace in production environments.
-
-## Services Available
-
-## ⚙️ What I Provide
+## What You'll Get Support?
 - 🧠 Full Odysseus AI Workspace installation
 - 🌐 Cloud & VPS server setup (DigitalOcean, AWS, etc.)
-- 🔌 OpenAI API & local LLM integration
+- 🔌 Cloud AI API & local LLM integration
 - 🔐 NGINX reverse proxy configuration
 - 🔒 SSL certificate setup (HTTPS secure deployment)
 - ⚡ Performance optimization & scaling
 - 🛠️ Troubleshooting & bug fixing
 - 🔄 Maintenance & on-demand support
 
-### AI Integration
-- Cloud AI API integration
+## Cloud AI API integration
   - OpenAI
   - Anthropic
   - Google Gemini
   - Groq
   - OpenRouter
   - Mistral AI
-- Local LLM integration
+
+## Local LLM integration
   - Ollama
   - LocalAI
   - LM Studio
@@ -41,10 +37,10 @@ Whether you're an individual developer, startup, agency, or business, this repos
 - Self-Hosting Enthusiasts
 
 ## Reach out me if you need professional support:
-### Telegram
+## Telegram
 💬 https://t.me/AnythingLinux
 
-### WhatsApp
+## WhatsApp
 📩 https://wa.me/8801890757616
 
 ## Disclaimer
