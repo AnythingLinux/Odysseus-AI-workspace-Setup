@@ -49,7 +49,7 @@ Professional production-grade setup, deployment, integration, troubleshooting, a
 ───────────────────────────────────────────────
 ```
 
-![Odysseus](odysseus.jpg)
+![Odysseus](Odysseus.png)
 
 ## Disclaimer
 This repository is intended to provide guidance, documentation, and support resources related to Odysseus AI Workspace deployments. Product names, trademarks, and service names belong to their respective owners.
