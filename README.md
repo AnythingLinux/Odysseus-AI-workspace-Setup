@@ -45,7 +45,7 @@ Professional production-grade setup, deployment, integration, troubleshooting, a
 
 ```
 ───────────────────────────────────────────────
- ⊹ ࣪ ˖ ૮( ˶ᵔ ᵕ ᵔ˶ )っ  Odysseus vers. latest
+✧(｡•̀ᴗ-)✧ Odysseus Version: Stable Release
 ───────────────────────────────────────────────
 ```
 
