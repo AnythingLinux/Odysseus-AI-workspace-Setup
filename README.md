@@ -1,4 +1,4 @@
-# Professional Odysseus AI Workspace Setup & Support
+# Odysseus Self-hosted AI Workspace Setup Support
 
 Professional freelance support for Odysseus AI Workspace, including production-grade setup, deployment, AI integration, troubleshooting, optimization, and ongoing maintenance.
 
@@ -16,20 +16,6 @@ Professional freelance support for Odysseus AI Workspace, including production-g
 💬 Telegram: https://t.me/AnythingLinux
 
 📩 WhatsApp: https://wa.me/8801890757616
-
-## Cloud AI API
-  - OpenAI
-  - Anthropic
-  - Google Gemini
-  - Groq
-  - OpenRouter
-  - Mistral AI
-
-## Local LLM 
-  - Ollama
-  - LocalAI
-  - LM Studio
-  - vLLM
 
 ## Who Can Benefit?
 - Developers
